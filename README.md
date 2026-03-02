@@ -14,7 +14,9 @@ Download:
 - [Shipping version (733 MB)](https://drive.google.com/file/d/1ZeQWi-yfmhLCEk339D9Bs76Ww4sgPhbl/view?usp=sharing)
 - [Development version (895.7 MB)](https://drive.google.com/file/d/1If8LlYYMKo0jQsuGOz1upyFQODjRBsgW/view?usp=sharing)
 
-Run `SolarSystemVR.exe` in `/Build/Windows` - [Preview Video](https://drive.google.com/file/d/1sMiLaH8oU-Sym637rhuAwBGO1FLoa_d3/view?usp=sharing)
+Run `SolarSystemVR.exe` in `/Build/Windows` - [Preview Video](https://www.bilibili.com/video/BV1EqRUY5Eif/)
+
+[![Preview Video](./preview.jpg)](https://www.bilibili.com/video/BV1EqRUY5Eif/)
 
 ## Key Features
 ### Character Movement
